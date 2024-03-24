@@ -1,0 +1,22 @@
+{
+	"name": "naseems-theme",
+	"displayName": "Naseems Theme",
+	"description": "A personal theme for the one and only Naseem Usmani",
+	"version": "0.0.2",
+	"publisher": "SaibaDigital",
+	"engines": {
+		"vscode": "^1.73.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Naseems Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Naseems Theme-color-theme.json"
+			}
+		]
+	}
+}
