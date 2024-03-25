@@ -2,7 +2,7 @@
 	"name": "naseems-theme",
 	"displayName": "Naseems Theme",
 	"description": "A personal theme for the one and only Naseem Usmani",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"publisher": "SaibaDigital",
 	"engines": {
 		"vscode": "^1.73.0"
