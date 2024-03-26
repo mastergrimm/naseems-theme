@@ -2,6 +2,10 @@
 	"name": "naseems-theme",
 	"displayName": "Naseems Theme",
 	"icon": "saiba-logo.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mastergrimm/naseems-theme.git"
+	},
 	"description": "A personal theme for the one and only Naseem Usmani",
 	"version": "0.3.0",
 	"publisher": "SaibaDigital",
